@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larbiamine; I'm a Visual Computing student 
-- 👀 I’m interested in Game design and audio processing
+- 👀 I’m interested in Web Development and Computer Vision.
 
 
 <!---
