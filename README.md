@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @larbiamine; I'm a Visual Computing student 
+- 👋 Hi, I’m @larbiamine; I'm a Web Developer 
 - 👀 I’m interested in Web Development and Computer Vision.
 
 
